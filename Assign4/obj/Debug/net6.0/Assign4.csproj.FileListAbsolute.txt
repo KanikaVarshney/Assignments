@@ -1,0 +1,5 @@
+C:\Users\Kanika.Varshney\source\repos\Assignment1\Assign4\obj\Debug\net6.0\Assign4.csproj.AssemblyReference.cache
+C:\Users\Kanika.Varshney\source\repos\Assignment1\Assign4\obj\Debug\net6.0\Assign4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kanika.Varshney\source\repos\Assignment1\Assign4\obj\Debug\net6.0\Assign4.AssemblyInfoInputs.cache
+C:\Users\Kanika.Varshney\source\repos\Assignment1\Assign4\obj\Debug\net6.0\Assign4.AssemblyInfo.cs
+C:\Users\Kanika.Varshney\source\repos\Assignment1\Assign4\obj\Debug\net6.0\Assign4.csproj.CoreCompileInputs.cache

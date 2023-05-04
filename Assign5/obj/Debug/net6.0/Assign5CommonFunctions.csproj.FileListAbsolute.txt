@@ -1,0 +1,12 @@
+C:\Users\Kanika.Varshney\source\repos\Assignment1\Assign5\bin\Debug\net6.0\Assign5CommonFunctions.deps.json
+C:\Users\Kanika.Varshney\source\repos\Assignment1\Assign5\bin\Debug\net6.0\Assign5CommonFunctions.dll
+C:\Users\Kanika.Varshney\source\repos\Assignment1\Assign5\bin\Debug\net6.0\Assign5CommonFunctions.pdb
+C:\Users\Kanika.Varshney\source\repos\Assignment1\Assign5\obj\Debug\net6.0\Assign5CommonFunctions.csproj.AssemblyReference.cache
+C:\Users\Kanika.Varshney\source\repos\Assignment1\Assign5\obj\Debug\net6.0\Assign5CommonFunctions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kanika.Varshney\source\repos\Assignment1\Assign5\obj\Debug\net6.0\Assign5CommonFunctions.AssemblyInfoInputs.cache
+C:\Users\Kanika.Varshney\source\repos\Assignment1\Assign5\obj\Debug\net6.0\Assign5CommonFunctions.AssemblyInfo.cs
+C:\Users\Kanika.Varshney\source\repos\Assignment1\Assign5\obj\Debug\net6.0\Assign5CommonFunctions.csproj.CoreCompileInputs.cache
+C:\Users\Kanika.Varshney\source\repos\Assignment1\Assign5\obj\Debug\net6.0\Assign5CommonFunctions.dll
+C:\Users\Kanika.Varshney\source\repos\Assignment1\Assign5\obj\Debug\net6.0\refint\Assign5CommonFunctions.dll
+C:\Users\Kanika.Varshney\source\repos\Assignment1\Assign5\obj\Debug\net6.0\Assign5CommonFunctions.pdb
+C:\Users\Kanika.Varshney\source\repos\Assignment1\Assign5\obj\Debug\net6.0\ref\Assign5CommonFunctions.dll

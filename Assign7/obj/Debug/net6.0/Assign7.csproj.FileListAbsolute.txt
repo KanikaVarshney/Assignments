@@ -1,0 +1,15 @@
+C:\Users\Kanika.Varshney\source\repos\Assignment1\Assign7\bin\Debug\net6.0\Assign7.exe
+C:\Users\Kanika.Varshney\source\repos\Assignment1\Assign7\bin\Debug\net6.0\Assign7.deps.json
+C:\Users\Kanika.Varshney\source\repos\Assignment1\Assign7\bin\Debug\net6.0\Assign7.runtimeconfig.json
+C:\Users\Kanika.Varshney\source\repos\Assignment1\Assign7\bin\Debug\net6.0\Assign7.dll
+C:\Users\Kanika.Varshney\source\repos\Assignment1\Assign7\bin\Debug\net6.0\Assign7.pdb
+C:\Users\Kanika.Varshney\source\repos\Assignment1\Assign7\obj\Debug\net6.0\Assign7.csproj.AssemblyReference.cache
+C:\Users\Kanika.Varshney\source\repos\Assignment1\Assign7\obj\Debug\net6.0\Assign7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kanika.Varshney\source\repos\Assignment1\Assign7\obj\Debug\net6.0\Assign7.AssemblyInfoInputs.cache
+C:\Users\Kanika.Varshney\source\repos\Assignment1\Assign7\obj\Debug\net6.0\Assign7.AssemblyInfo.cs
+C:\Users\Kanika.Varshney\source\repos\Assignment1\Assign7\obj\Debug\net6.0\Assign7.csproj.CoreCompileInputs.cache
+C:\Users\Kanika.Varshney\source\repos\Assignment1\Assign7\obj\Debug\net6.0\Assign7.dll
+C:\Users\Kanika.Varshney\source\repos\Assignment1\Assign7\obj\Debug\net6.0\refint\Assign7.dll
+C:\Users\Kanika.Varshney\source\repos\Assignment1\Assign7\obj\Debug\net6.0\Assign7.pdb
+C:\Users\Kanika.Varshney\source\repos\Assignment1\Assign7\obj\Debug\net6.0\Assign7.genruntimeconfig.cache
+C:\Users\Kanika.Varshney\source\repos\Assignment1\Assign7\obj\Debug\net6.0\ref\Assign7.dll
